@@ -1,5 +1,4 @@
-# Harvest
-![](https://www.mendozapost.com/files/image/14/14896/54f7483e88f1c.jpg)
+# HARVEST
 
 # Análisis Exploratorio de Datos de Vinos.
 
