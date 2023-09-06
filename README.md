@@ -22,7 +22,7 @@ Los resultados de este EDA proporcionarán información valiosa para la toma de 
 
 ## Contribuciones
 
-Siéntete libre de contribuir a este proyecto si tienes ideas adicionales para el análisis o deseas mejorar el EDA de alguna manera. Las contribuciones son bienvenidas y valoradas.
+Sentite libre de contribuir a este proyecto si tenes ideas adicionales para el análisis o deseos para mejorar el EDA de alguna manera. Las contribuciones son bienvenidas y valoradas.
 
 
 **¡Gracias por tu interés en nuestro EDA sobre vinos!** 
