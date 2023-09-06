@@ -28,6 +28,6 @@ Siéntete libre de contribuir a este proyecto si tienes ideas adicionales para e
 
 **¡Gracias por tu interés en nuestro EDA sobre vinos!** 
 
-![](https://img.freepik.com/vector-gratis/set-gafas-transparentes-vino-blanco-tinto_1441-111.jpg?w=740&t=st=1694032975~exp=1694033575~hmac=a2787e8d128acfd92816692be6c16b39f5ac4888d6c17dd6b562d361ef706c6b)
+![](https://img.freepik.com/vector-premium/linea-continua-dos-copas-vino-manos_274619-3299.jpg?w=1060)
 
  
